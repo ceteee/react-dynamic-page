@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### try the page
+http://ceteee.github.io/react-dynamic-page
+
 ## Available Scripts
 
 In the project directory, you can run:
